@@ -109,7 +109,7 @@
 @media (max-width: 764px){
   #toast-container{
     top: unset!important;
-    bottom: 5rem;
+    bottom: 10rem;
 
   }
 }
