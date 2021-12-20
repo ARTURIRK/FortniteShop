@@ -4,7 +4,7 @@
 - CSS
 - JS
 - Фреймворк Materialize
-- 
+- API - FortniteApi.io, доступное по ссылке [API](https://fortniteapi.io)
 - React
 - React Hooks
 Предварительный просмотр [Links](https://arturirk.github.io/React-FortniteShop/)
